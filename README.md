@@ -42,6 +42,5 @@ ps -ef|grep natapp
 kill -9 ID
 
 
-# teamviewerÃÜÂë
+# teamviewer
 392088179
-scut_626
